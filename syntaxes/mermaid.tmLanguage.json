@@ -226,7 +226,7 @@
                   "name": "keyword.control.mermaid"
                 },
                 "2": {
-                  "name": "keyword.control.mermaid"
+                  "name": "punctuation.separator.mermaid"
                 },
                 "3": {
                   "name": "string"
@@ -277,13 +277,13 @@
                   "name": "variable"
                 },
                 "4": {
-                  "name": "keyword.control.mermaid"
+                  "name": "punctuation.separator.mermaid"
                 },
                 "5": {
                   "name": "variable"
                 },
                 "6": {
-                  "name": "keyword.control.mermaid"
+                  "name": "punctuation.separator.mermaid"
                 },
                 "7": {
                   "name": "string"
@@ -337,7 +337,7 @@
                   "name": "variable"
                 },
                 "4": {
-                  "name": "keyword.control.mermaid"
+                  "name": "punctuation.separator.mermaid"
                 },
                 "5": {
                   "name": "string"
@@ -411,7 +411,7 @@
                   "name": "string"
                 },
                 "2": {
-                  "name": "keyword.control.mermaid"
+                  "name": "punctuation.separator.mermaid"
                 }
               },
               "patterns": [
